@@ -10,4 +10,7 @@
 
 .ab {
     background-color: rgb(67, 237, 247);
+    border-radius: 25px;
+    border-color: blue;
+    border: 5px;
 }

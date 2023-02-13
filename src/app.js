@@ -25,6 +25,6 @@ calcButton.addEventListener('click', () => {
 });
 
 function calcArea(length, feed, rpm) {
-    let area = length/feed*rpm;
+    let area = length/(feed*rpm);
     return area;
 }
